@@ -14,7 +14,8 @@ public:
 };
 
 class classB {
-private:
+
+
     int valueB;  // Fixed the variable name
 public:
     classB(int b) : valueB(b) {}  // Constructor with initializer list
